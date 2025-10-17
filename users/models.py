@@ -1,3 +1,3 @@
-from django.db import models
+from django.contrib.auth.models import User
+# No custom model needed, use Django's default User
 
-# Create your models here.
